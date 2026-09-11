@@ -5,7 +5,6 @@ homebrew tap for [`hugonote/mcpelauncher-swift`](https://github.com/hugonote/mcp
 
 
 ```sh
-brew tap hugonote/mcpelauncher-swift
-brew install --cask minecraft-bedrock-launcher
+brew install --cask hugonote/tap/mcpelauncher-swift
 ```
 
