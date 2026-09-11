@@ -1,4 +1,4 @@
-cask "minecraft-bedrock-launcher" do
+cask "mcpelauncher-swift" do
   version "0.1.13"
   sha256 "e56a08291837a998879a5bcdbae9fe90e0b60c17359a4c7e2d1af5b72e584c61"
 
