@@ -1,6 +1,6 @@
 cask "mcpelauncher-swift" do
-  version "0.1.14"
-  sha256 "fd834d14ab2877c719bd0aa7a8b9ec86027e25a17e466cf4bf04cd01083c3796"
+  version "0.1.15"
+  sha256 "2c794eb674b1ef4b08b0c83a92299263528bdaab0a01cfc94b15980581344aa6"
 
   url "https://github.com/hugonote/mcpelauncher-swift/releases/download/v#{version}/Minecraft.Bedrock.Launcher-#{version}.dmg"
   name "Minecraft Bedrock Launcher"
